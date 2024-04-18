@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": 1713175718143,
+      "fullName": "Iskandar Usmanov",
+      "username": "usmanovv_o4",
+      "password": "123",
+      "role": "user"
+    },
+    {
+      "id": 1713180264249,
+      "fullName": "safasf",
+      "username": "ad",
+      "password": "ad",
+      "role": "admin"
+    }
+  ]
+}
